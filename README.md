@@ -1,7 +1,21 @@
-## Nicolas Da S. Hoffmann
-# Tenho 18 anos 
-# Gosto muito de eletrônica
-# Estou fazendo um curso de programador Full stack de 670 horas pela petrobras
+## <h2 align="center">Bem vindo(a), me chamo Nicolas Da S. Hoffmann
+
+ 
+   Tenho 18 anos. 
+   
+Gosto muito de eletrônica.
+
+Estou fazendo um curso de programador Full stack de 670 horas pela petrobras.
+
+
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Alienware-541BAE.svg?style=for-the-badge&logo=Alienware&logoColor=white" alt="Alienware"
+  
+
 
 <!--
 **Nicolas-Hoffmann21/Nicolas-Hoffmann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
