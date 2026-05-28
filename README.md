@@ -1,4 +1,4 @@
-## Nicolas
+## Nicolas Da S. Hoffmann
 # Tenho 18 anos 
 # Gosto muito de eletrônica
 # Estou fazendo um curso de programador Full stack de 670 horas pela petrobras
