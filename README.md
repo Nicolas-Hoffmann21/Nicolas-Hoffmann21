@@ -1,4 +1,7 @@
-## Hi there 👋
+## Nicolas
+# Tenho 18 anos 
+# Gosto muito de eletrônica
+# Estou fazendo um curso de programador Full stack de 670 horas pela petrobras
 
 <!--
 **Nicolas-Hoffmann21/Nicolas-Hoffmann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
