@@ -7,6 +7,10 @@ Gosto muito de eletrônica.
 
 Estou fazendo um curso de programador Full stack de 670 horas pela petrobras.
 
+No ano de 2025 me formei no curso de Técnico Em Eletrônica.
+
+Atualmente estou no meu terceiro curso do SENAI, fazendo dois cursos simultaneamente.
+
 
 
 ## 🛠️ Tecnologias & Ferramentas
